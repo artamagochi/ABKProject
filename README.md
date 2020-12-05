@@ -10,4 +10,4 @@ Requirements:
 ```  react- Native ```
   
 To run:
-run ``` npm start ``` inside the project folder.
+Run ``` npm start ``` inside the project folder.
